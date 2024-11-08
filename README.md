@@ -6,7 +6,7 @@ IT Support / Junior Dev
 
 In April 2020, right when COVID hit, I was given an opportunity to work an IT job from home. As a new father, I knew this was my one chance to spend as much time with my child as possible while also providing a good life for my family. So I made the leap and havent looked back since. In that time, I've taken on more and more responsibilities with my company as I want to remain relevant and employable. Also, I fucking love what I do, so that makes it easy. 
 
-I wear several hats ranging from customer support, to managing all customer domains, emails and mail servers. Ive essentially worked myself into a more technical role in the company as I feel like this is where I best serve our mission. More recently, Ive been given the reigns to do some junior development projects such as building website and email templates, components and widgets which I find SUPER fun.
+I wear several hats ranging from customer support, to managing all customer domains, emails and mail servers, to managing all 2-way-texting numbers to 'low hangning fruit' development tasks. Ive essentially worked myself into a more technical role in the company as I feel like this is where I best serve our mission. More recently, Ive been given the reigns to do some junior development projects such as building website and email templates, components and widgets which I find SUPER fun.
 
 I didnt realize being a dork could be so much fun!
 
