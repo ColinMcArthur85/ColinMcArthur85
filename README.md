@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Colin McArthur
 ======================================================================================================================================
 
-Tech Support Agent
+IT Support / Junior Dev
 ------------------
 
-Ive been learning how to code since June of 2020. I know that because my wife and unborn daughter and I all lived in the Ronald McDonald house for 9 weeks for fear that I might lose both my wife and unborn child. I made a decision during this time that if I was going to provide for my family in the way they needed, I would learn everything I could about development. So I started, and havent stopped since.
+In April 2020, right when COVID hit, I was given an opportunity to work an IT job from home. As a new father, I knew this was my one change to spend as much time with my child as possible while also providing a good life for her. So I made the leap and havent looked back since. In that time, I've taken on more and more responsibilities with my company as I want to remain relevant and employable. Also, I fucking love what I do, so that makes it easy. 
+
+I wear several hats ranging from customer support, to managing all customer domains, emails and mail servers. Ive essentially worked myself into a more technical role in the company as I feel like this is where I best serve our mission. More recently, Ive been given the reigns to do some junior development projects such as building website and email templates, components and widgets which I find SUPER fun.
+
+I didnt realize being a dork could be so much fun!
 
 * 🌍  I'm based in Peachland, British Columbia, Canada
 * 🖥️  See my portfolio at [My GitHub](http://github.com/ColinMcArthur85)
